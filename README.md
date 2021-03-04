@@ -16,4 +16,5 @@
 
 + 자치구별 지하철역수와 대여수의 관계 확인하기
 ![Alt text](/img/2trainnum.jpg '자치구별 지하철수 연관성')
+<span style='color:red'> 상관관계있음 </span>
 
