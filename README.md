@@ -19,7 +19,7 @@
 
 + 자치구별 지하철역수와 대여수의 관계 확인하기
 ![Alt text](/img/2trainnum.jpg width='60%' height='60%' '자치구별 지하철수 연관성')
-<img src='/img/2trainnum.jpg' width='60%' height='60%' '자치구별 지하철수 연관성'></img>
+<img src='/img/2trainnum.jpg' width='60%' height='60%' title='자치구별 지하철수 연관성'></img><br/>
 -> 자하철수가 많으면 그만큼 대여소가 많은 것을 확인함!
 
 + 이용건수 전체 현황
